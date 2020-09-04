@@ -5,9 +5,9 @@ POST http://localhost:5500/books
 Content-Type: application/json
 
 {
-    "title":"Chemistry",
-    "author":"R.K. Sharma",
-    "edition":"Fifth Edition"
+    "title":"Cloud Comouting",
+    "author":"Rittinghouse, James W., James F. Ransome",
+    "edition":"Fourth Edition"
 }
 ###
 GET http://localhost:5500/books/5f51c3c5259c8324d4a539c8
