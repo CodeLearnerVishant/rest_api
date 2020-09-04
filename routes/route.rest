@@ -5,9 +5,9 @@ POST http://localhost:5500/books
 Content-Type: application/json
 
 {
-    "title":"Physics",
-    "author":"H.C Verma",
-    "edition":"Eleventh Edition"
+    "title":"Chemistry",
+    "author":"R.K. Sharma",
+    "edition":"Fifth Edition"
 }
 ###
 GET http://localhost:5500/books/5f51c3c5259c8324d4a539c8
